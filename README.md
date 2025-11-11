@@ -1,7 +1,7 @@
 # MattieLin-Murray_Python-Portfolio
 This is the portfolio of python code that I learned during BISC 450C.
 
-## Using Jupyter Notebooks (1 and 2)
+## Using Jupyter Notebooks (1 and 2) :green_book:
 
 In this analysis, we learned how to create, use, and save Jupyter Notebooks by creating code to generate tables and graphs for the fortune500.csv data.
 
@@ -632,7 +632,7 @@ print('weight in kilograms is now:' , weight_kg)
 
     weight in kilograms is now: 65.0
 
-## Analyzing Data (1, 2, and 3)
+## Analyzing Data (1, 2, and 3) :chart_with_upwards_trend:
 
 In this analysis, we learned how to analyze data.
 
@@ -856,7 +856,7 @@ print(numpy.mean(data, axis = 1))
      5.925 6.15  6.075 5.75  5.975 5.725 6.3   5.9   6.75  5.925 7.225 6.15
      5.95  6.275 5.7   6.1   6.825 5.975 6.725 5.7   6.25  6.4   7.05  5.9  ]
 
-## Storing Values in Lists
+## Storing Values in Lists 	:clipboard:
 
 In this analysis, we learned how to create lists.
 
@@ -1094,7 +1094,7 @@ print(len(name))
 
     3
 
-## Using Multiple Files
+## Using Multiple Files :card_file_box:
 
 In this analysis, we learned how to analyze multiple files.
 
@@ -1164,6 +1164,8 @@ for filename in filenames:
 <img width="712" height="208" alt="output_2_5" src="https://github.com/user-attachments/assets/58197b04-7682-4103-8f2f-211c9479f3a5" />
 
 ## Making Choices
+
+<img width="400" height="247" alt="image" src="https://github.com/user-attachments/assets/ec733244-b2d4-4250-be89-4681e8bed8c8" />
 
 In this analysis, we learned about if and else statements to make choices with code. 
 
@@ -1887,7 +1889,7 @@ def std_dev(sample):
     return numpy.sqrt(sum_squared_devs / (len(sample) - 1))
 ```
 
-## Defensive Programming
+## Defensive Programming 	:closed_lock_with_key:
 
 In this analysis, we learned how to set up code that helps to protect our code. 
 
@@ -2022,6 +2024,8 @@ print(normalize_rectangle( (0.0, 0.0, 5.0, 1.0) ))
 
 ## Transcribing DNA into RNA
 
+<img width="900" height="472" alt="image" src="https://github.com/user-attachments/assets/85659d6e-6801-49a5-b72a-ab078755b435" />
+
 In this analysis, we learned how to take a genomic sequence from NCBI and transcribe it into an mRNA sequence.
 
 ```python
@@ -2090,4 +2094,7 @@ print(rna_sequence)
 
 ## Translating RNA into Protein
 
+<img width="1842" height="1902" alt="image" src="https://github.com/user-attachments/assets/991d4497-6cff-4cbc-b34c-fedb1768a3bc" />
+
 In this analysis, we learned how to take our mRNA from the previous section and translate it into a protein.
+
