@@ -856,8 +856,7 @@ print(numpy.mean(data, axis = 1))
      5.925 6.15  6.075 5.75  5.975 5.725 6.3   5.9   6.75  5.925 7.225 6.15
      5.95  6.275 5.7   6.1   6.825 5.975 6.725 5.7   6.25  6.4   7.05  5.9  ]
 
-## Storing Values in Lists 	:spiral_notepad:
-
+## Storing Values in Lists 
 In this analysis, we learned how to create lists.
 
 ```python
@@ -1165,7 +1164,7 @@ for filename in filenames:
 
 ## Making Choices
 
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JnZWdrNWJ3NW1nNTFzcmdjeGdrZjIwNXowOWhvam1kbjBvczl1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Uni2jYCihB3fG/giphy.gif
+![Funny Cat](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JnZWdrNWJ3NW1nNTFzcmdjeGdrZjIwNXowOWhvam1kbjBvczl1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Uni2jYCihB3fG/giphy.gif)
 
 In this analysis, we learned about if and else statements to make choices with code. 
 
@@ -1889,7 +1888,10 @@ def std_dev(sample):
     return numpy.sqrt(sum_squared_devs / (len(sample) - 1))
 ```
 
-## Defensive Programming 	:lock:
+## Defensive Programming 	
+
+![Defense](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlqOGJyNjRjZXd1ajZzZjZrZnNpcGVhc2VyMnY0cmx5dGQ4MHp3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3DFdMTfexvQtmS8gsa/giphy.gif)
+
 In this analysis, we learned how to set up code that helps to protect our code. 
 
 ```python
@@ -2093,7 +2095,7 @@ print(rna_sequence)
 
 ## Translating RNA into Protein
 
-<img width="1842" height="1902" alt="image" src="https://github.com/user-attachments/assets/991d4497-6cff-4cbc-b34c-fedb1768a3bc" />
+<img width="1600" height="1165" alt="image" src="https://github.com/user-attachments/assets/bbf41b0c-5166-4529-a735-c8c7262d0cb4" />
 
 In this analysis, we learned how to take our mRNA from the previous section and translate it into a protein.
 
