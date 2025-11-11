@@ -856,7 +856,7 @@ print(numpy.mean(data, axis = 1))
      5.925 6.15  6.075 5.75  5.975 5.725 6.3   5.9   6.75  5.925 7.225 6.15
      5.95  6.275 5.7   6.1   6.825 5.975 6.725 5.7   6.25  6.4   7.05  5.9  ]
 
-## Storing Values in Lists 	:clipboard:
+## Storing Values in Lists 	:spiral_notepad:
 
 In this analysis, we learned how to create lists.
 
@@ -1165,7 +1165,7 @@ for filename in filenames:
 
 ## Making Choices
 
-<img width="400" height="247" alt="image" src="https://github.com/user-attachments/assets/ec733244-b2d4-4250-be89-4681e8bed8c8" />
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JnZWdrNWJ3NW1nNTFzcmdjeGdrZjIwNXowOWhvam1kbjBvczl1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Uni2jYCihB3fG/giphy.gif
 
 In this analysis, we learned about if and else statements to make choices with code. 
 
@@ -1889,8 +1889,7 @@ def std_dev(sample):
     return numpy.sqrt(sum_squared_devs / (len(sample) - 1))
 ```
 
-## Defensive Programming 	:closed_lock_with_key:
-
+## Defensive Programming 	:lock:
 In this analysis, we learned how to set up code that helps to protect our code. 
 
 ```python
