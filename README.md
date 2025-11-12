@@ -1892,7 +1892,7 @@ def std_dev(sample):
 
 ![Defense](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlqOGJyNjRjZXd1ajZzZjZrZnNpcGVhc2VyMnY0cmx5dGQ4MHp3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3DFdMTfexvQtmS8gsa/giphy.gif)
 
-In this analysis, we learned how to set up code that helps to protect our code. 
+In this analysis, we learned how to set up defensive code.
 
 ```python
 numbers = [1.5, 2.3, 0.7, -0.001, 4.4]
